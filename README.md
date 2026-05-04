@@ -30,6 +30,6 @@ data/
 
 ### Where to download
 
-- **Landsat 8 Collection 2 L2 SR** — USGS EarthExplorer (`earthexplorer.usgs.gov`). Search path/row 061/113, 2018-10-14.
-- **Sentinel-2 L1C** — Copernicus Browser (`browser.dataspace.copernicus.eu`). Tile T58CDB, 2018-10-17.
-- **MODIS Aqua MYD09GA** — NASA LAADS DAAC (`ladsweb.modaps.eosdis.nasa.gov`). Granules A2018288 and A2018290.
+- **Landsat 8 Collection 2 L2 SR** — [USGS EarthExplorer](https://earthexplorer.usgs.gov/). Search path/row 061/113, 2018-10-14.
+- **Sentinel-2 L1C** — [Copernicus Browser](https://browser.dataspace.copernicus.eu/). Tile T58CDB, 2018-10-17.
+- **MODIS Aqua MYD09GA** — [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/). Granules A2018288 and A2018290.
