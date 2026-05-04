@@ -1,0 +1,10 @@
+# Satellite imagery (large, not tracked)
+Landsat8/
+MODIS/
+sentinel2/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
