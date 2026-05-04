@@ -1,7 +1,5 @@
 # Satellite imagery (large, not tracked)
-Landsat8/
-MODIS/
-sentinel2/
+data/
 
 # macOS
 .DS_Store
